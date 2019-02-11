@@ -1,2 +1,0 @@
-LOG_MASK={ip} {?} {?} [{date}] "{method}" {?} {?} "{?}" "{user_agent}"
-LOG_PATH=/logs/access.log
